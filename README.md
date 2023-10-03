@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jonathan Mai</h1>
 <h3 align="center">A passionate developer & student located in California</h3>
-<img align="right" alt="Coding" width="400" src="[https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjliaWl3cWJmOWt4cXEzOGU0NHB0bXpiaDBkZHBrNHB2MHBxN28xNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 - 🌱 I’m currently learning **Node.js, MySQL**
 
