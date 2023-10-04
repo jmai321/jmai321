@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Node.js, MySQL**
 
-- 👨‍💻 Some of my projects are available at [https://jmai321.github.io/personal-portfiolio/](https://jmai321.github.io/personal-portfiolio/)
+- 👨‍💻 Take a look at some of my projects [https://jmai321.github.io/personal-portfiolio/](https://jmai321.github.io/personal-portfiolio/)
 
 - 💬 Ask me about **C++, Python, React**
 
