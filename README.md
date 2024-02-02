@@ -2,11 +2,7 @@
 <h3 align="center">A passionate developer & student located in California</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 🌱 I’m currently learning **Node.js & MySQL**
-
 - 👨‍💻 Take a look at some of my projects [https://jmai321.github.io/personal-portfiolio/](https://jmai321.github.io/personal-portfiolio/)
-
-- 💬 Ask me about **C++, Python, React**
 
 - 📫 How to reach me **jonathannmai@gmail.com**
 
