@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer & student located in California</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 👨‍💻 Take a look at some of my projects [https://jmai321.github.io](https://jmai321.github.io)
+- 👨‍💻 Take a look at some of my projects [jmai321.github.io](https://jmai321.github.io)
 
 - 📫 How to reach me **jonathannmai@gmail.com**
 
