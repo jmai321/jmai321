@@ -4,8 +4,6 @@
 
 - 👨‍💻 Take a look at some of my projects [jmai321.github.io](https://jmai321.github.io)
 
-- 📫 How to reach me **jonathannmai@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jnkmai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jnkmai" height="30" width="40" /></a>
